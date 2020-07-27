@@ -14,7 +14,27 @@
   
   The user can choose from four risk levels: none, low, medium, high. According to his choice of risk level the Robo Advisor will output the matching answer.
   
-  You can see a video showing how the Robo Advisor works
+  In the RoboAdvisor folder, there is a mp4 file showing how the Robo Advisor works for better understanding.
+  
+  
+ ## Clustering Crypto:
+   
+ #### main tasks:
+
+- Data Preprocessing: Preparing data for dimension reduction with PCA and clustering using K-Means.
+
+- Reducing Data Dimensions Using PCA: Reducing data dimension using the PCA algorithm from sklearn.
+
+- Clustering Cryptocurrencies Using K-Means: Predicting clusters using the cryptocurrencies data using the KMeans algorithm from sklearn.
+
+- Visualizing Results: Creating some plots and data tables to present the results.
+
+- Deploing the notebook to Amazon SageMaker.
+
+
+  
+  
+  
 
 
 
